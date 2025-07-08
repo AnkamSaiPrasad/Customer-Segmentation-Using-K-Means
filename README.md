@@ -9,8 +9,6 @@ This project demonstrates how to use unsupervised machine learning techniques â€
 
 ## Key Visualizations & Outputs
 
-Included in `Output_Screenshots.pdf`:
-
 - Gender Count
 - Distribution of Age
 - Distribution of Annual Income
