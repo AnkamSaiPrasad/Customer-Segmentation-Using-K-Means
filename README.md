@@ -33,10 +33,26 @@ Included in `Output_Screenshots.pdf`:
 - Elbow Method to find optimal number of clusters
 - 2D and 3D Visualization of Customer Segments
 
-## 🚀 How to Run
+## How to Run
 
-1. **Clone this repository:**
+1. Clone the repository:
+   
+   `git clone https://github.com/AnkamSaiPrasad/customer-segmentation-kmeans.git
+   cd customer-segmentation-kmeans`
+   #### If the above command didn't work
+   you can also do this by placing the `Sourcecode.ipynb` and `customer_segmentation.csv` in same folder.
+   
+3. Install required packages:
+  
+   `pip install pandas matplotlib seaborn scikit-learn jupyter`
+  
+3. Launch the notebook:
 
-   ```bash
-   git clone https://github.com/your-username/customer-segmentation-kmeans.git
-   cd customer-segmentation-kmeans
+   `jupyter notebook Sourcecode.ipynb`
+  
+4. Run each cell to see the model training and forecasting in action.
+
+## Author
+#### Ankam Sai prasad
+#### B.Tech in Data Science
+#### Email: ankamsaiprasad13@gmail.com
